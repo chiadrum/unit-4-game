@@ -1,0 +1,65 @@
+body {
+    color: red!important;
+    text-shadow: 2px 2px black;
+    font-weight: bolder;
+    background-color: black;
+    background-image: url("../images/bg-ship4.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-size: 1.1em !important;
+    font-family: 'Nunito', sans-serif !important;
+    font-weight: bold;
+}
+
+#wrapper {
+    width: auto;
+    height: auto;
+    /* border: 3px solid blue; */
+    align-items: center;
+}
+#header {
+    margin: 0px 5px 0px 5px;
+}
+#select {
+    width: auto;
+    /* border: 3px solid blue; */
+    text-align: center;
+}
+.card {
+    /* background: linear-gradient(black, silver); */
+    background: linear-gradient(45deg, red, blue);
+}
+#player {
+    margin-left: 150px;
+    width: auto;
+    height: auto;
+    /* border: 3px solid aqua; */
+    text-align: center;
+}
+#button {
+    padding-top: 20vh;
+    margin-left: 40px;
+}
+.button {
+    background:linear-gradient(black, silver);
+    text-shadow: 2px 2px 2px #1C6EA4;
+    border: 4px groove blue;
+}
+#battle {
+    width: auto;
+    /* border: 3px solid blue; */
+    text-align: center;
+}
+#game {
+    margin-left: 100px;
+    width: auto;
+    height: auto;
+    /* border: 3px solid forestgreen; */
+}
+footer {
+    /* color: teal; */
+    width: auto;
+    text-align: center;
+    /* border: 3px solid teal */
+}
